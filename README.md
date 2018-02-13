@@ -5,11 +5,15 @@
 
 使用方法：
 
-导入头文件 `#import "NSButton+Button.h"`
+导入头文件 
+
+`#import "NSButton+Button.h"`
 
 设置属性
 
- ` _btn.textColor = [NSColor redColor];`
- `_btn.textAlignment = kTextAlignmentCenter;`
+ ```
+  _btn.textColor = [NSColor redColor];
+  _btn.textAlignment = kTextAlignmentCenter;
+ ```
  
  
